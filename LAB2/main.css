@@ -1,0 +1,26 @@
+h1{color:skyblue;
+font-size:40pt;
+text-align:center;
+margin: 0px;}
+
+h2{color:skyblue;
+font-size:40pt;
+text-align:center;
+margin:0px;}
+
+body{color:black;
+font-family:tahoma,helvetica,sans-serif;
+font-size:15pt;
+width:80%;}
+
+.mainbox1{border:10px solid pink;
+background-color:lightgoldenrodyellow;
+padding:30px 60px 30px;
+width:70%;
+height:140px;}
+
+.mainbox2{border:10px solid aquamarine;
+background-color:lightgrey;
+padding:30px 60px 30px;
+width:70%;
+height:90px;}
