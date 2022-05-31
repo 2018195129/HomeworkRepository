@@ -1,0 +1,359 @@
+[
+    {
+        "postId":1,
+        "name":"snowman",
+        "price":"$30",
+        "image":"snowman.jpg",
+        "type":"essentials"
+    },
+    {
+        "postId":1,
+        "name":"christmas tree",
+        "price":"$20",
+        "image":"tree.jpg",
+        "type":"essentials"
+    },
+    {
+        "postId":1,
+        "name":"latte",
+        "price":"$5",
+        "image":"latte.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"cute bread",
+        "price":"$5",
+        "image":"gomdori.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"smiley cake",
+        "price":"$10",
+        "image":"cake.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"candy",
+        "price":"$3",
+        "image":"candy.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"flower",
+        "price":"$3",
+        "image":"flower.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"lighting",
+        "price":"$10",
+        "image":"lighting.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"pasta",
+        "price":"$20",
+        "image":"pasta.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"ornaments",
+        "price":"$40",
+        "image":"ornament.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"mini-tree",
+        "price":"$15",
+        "image":"mini-tree.jpg",
+        "type":"essentials"
+    },
+    {
+        "postId":1,
+        "name":"명랑hotdogs",
+        "price":"$2",
+        "image":"명랑hotdogs.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"disney dolls",
+        "price":"$8",
+        "image":"disney-dolls.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"sign",
+        "price":"$8",
+        "image":"sign.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"candle",
+        "price":"$5",
+        "image":"candle.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"tableware",
+        "price":"$6",
+        "image":"tableware.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"christmas cookies",
+        "price":"$5",
+        "image":"cookie.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"woman purse",
+        "price":"$100",
+        "image":"bag.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"galaxyZflip",
+        "price":"$600",
+        "image":"galaxyZflip.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"apple-set",
+        "price":"$1000",
+        "image":"apple-set.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"golf lesson",
+        "price":"$100",
+        "image":"golf.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"airplane ticket",
+        "price":"$500",
+        "image":"airplane-ticket.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"everything for camping",
+        "price":"$500",
+        "image":"camping.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"cupcakes",
+        "price":"$20",
+        "image":"cupcakes.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"meeting with santa claus",
+        "price":"$40",
+        "image":"santa-claus.jpg",
+        "type":"essentials"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood necklace",
+        "price":"$100",
+        "image":"heart-necklace.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood earing",
+        "price":"$100",
+        "image":"ruby-earing.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"lighting balls",
+        "price":"$15",
+        "image":"lighting-balls.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"name tags",
+        "price":"$10",
+        "image":"nametags.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"christmas hat",
+        "price":"$7",
+        "image":"christmas-hat.jpg",
+        "type":"essentials"
+    },
+    {
+        "postId":1,
+        "name":"hot chocolate",
+        "price":"$5",
+        "image":"hot-chocolate.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"wine",
+        "price":"$35",
+        "image":"wine.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"going to amusement park",
+        "price":"$30",
+        "image":"amusement-park.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"ballons",
+        "price":"$25",
+        "image":"ballons.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood socks",
+        "price":"$7",
+        "image":"christmas-socks.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood mnms",
+        "price":"$5",
+        "image":"christmas-mnms.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"enjoy Christmas in Hogwarts",
+        "price":"$800",
+        "image":"hogwarts-christmas.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood marshmellos",
+        "price":"$5",
+        "image":"christmas-marshmellos.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"snoopy goods-Christmas",
+        "price":"$6",
+        "image":"snoopy-goods.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood bananas",
+        "price":"$5",
+        "image":"christmas-bananas.jpg",
+        "type":"something to eat"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood car",
+        "price":"$100",
+        "image":"special-christmas-car.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Kevin movies",
+        "price":"$5",
+        "image":"withKevin.jpg",
+        "type":"gift recommendations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas mood fireplace",
+        "price":"$100",
+        "image":"christmas-fireplace.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor1",
+        "price":"$10",
+        "image":"christmas-hairdecor1.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor2",
+        "price":"$10",
+        "image":"christmas-hairdecor2.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor3",
+        "price":"$10",
+        "image":"christmas-hairdecor3.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor4",
+        "price":"$10",
+        "image":"christmas-hairdecor4.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor5",
+        "price":"$10",
+        "image":"christmas-hairdecor5.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor6",
+        "price":"$10",
+        "image":"christmas-hairdecor6.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor7",
+        "price":"$10",
+        "image":"christmas-hairdecor7.jpg",
+        "type":"decorations"
+    },
+    {
+        "postId":1,
+        "name":"Christmas hair decor8",
+        "price":"$10",
+        "image":"christmas-hairdecor8.jpg",
+        "type":"decorations"
+    }
+]
